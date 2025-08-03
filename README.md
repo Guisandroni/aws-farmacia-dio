@@ -1,20 +1,21 @@
 # Relatório de Implementação de Serviços AWS
 
 **Data:** 03/08/2025
+
 **Empresa:** Abstergo Industries
+
 **Responsável:** Guilherme Dias
 
 ## Introdução
 
 Este relatório detalha a implementação de uma arquitetura de nuvem na Abstergo Industries. O projeto teve como foco a redução de custos, o aumento da alta disponibilidade e a melhoria da segurança. Para modernizar a infraestrutura de TI, foram utilizados diversos serviços da Amazon Web Services (AWS) para resolver gargalos no armazenamento de dados, na execução de rotinas analíticas e no controle de acessos internos.
 
----
+
 
 ## Arquitetura da Solução
 
 A arquitetura implementada é uma solução multicamadas, isolada e segura dentro de uma **Amazon Virtual Private Cloud (VPC)**. Os serviços foram configurados para operar com resiliência e escalabilidade, com as camadas de aplicação, banco de dados e armazenamento desacopladas e protegidas.
 
----
 
 ## Serviços Implementados
 
